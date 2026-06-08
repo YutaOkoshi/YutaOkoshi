@@ -1,10 +1,3 @@
-<!-- ===================== HEADER ===================== -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:2a5298,100:00c6ff&height=200&section=header" />
-
-</div>
-
 <!-- ===================== ABOUT ===================== -->
 ## 👋 About Me
 
