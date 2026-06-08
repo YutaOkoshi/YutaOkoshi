@@ -24,8 +24,6 @@ location: Japan 🇯🇵
 
 <div align="center">
 
-**☁️ Cloud / Infra &nbsp;&middot;&nbsp; 💻 Languages &nbsp;&middot;&nbsp; 🎨 Frontend &nbsp;&middot;&nbsp; 🗄️ Database**
-
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,go,ts,python,php,rust,java,kotlin,bash,nextjs,react,nuxtjs,mysql,postgres,redis&perline=10" />
 
 </div>
