@@ -9,46 +9,31 @@ location: Japan 🇯🇵
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
-**☁️ Cloud & Infrastructure**
+<div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-F90?style=for-the-badge&logo=amazonaws&logoColor=white)
+**☁️ Cloud / Infra &nbsp;&middot;&nbsp; 💻 Languages &nbsp;&middot;&nbsp; 🎨 Frontend &nbsp;&middot;&nbsp; 🗄️ Database**
 
-**💻 Languages**
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,go,ts,python,php,rust,java,kotlin,bash,nextjs,react,nuxtjs,mysql,postgres,redis&perline=10" />
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+</div>
 
-**🎨 Frontend**
+<!-- ===================== TOP LANGUAGES ===================== -->
+## 📈 Most Used Languages
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+<div align="center">
 
-**🗄️ Database**
+<img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YutaOkoshi&theme=tokyonight" />
+<img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YutaOkoshi&theme=tokyonight" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+</div>
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YutaOkoshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutaOkoshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YutaOkoshi&theme=tokyonight" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YutaOkoshi&theme=tokyonight&utcOffset=9" />
 
 </div>
 
