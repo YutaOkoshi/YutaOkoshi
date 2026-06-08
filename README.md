@@ -6,6 +6,19 @@ name: Yuta Okoshi
 location: Japan 🇯🇵
 ```
 
+<!-- ===================== SNAKE ===================== -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YutaOkoshi/YutaOkoshi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YutaOkoshi/YutaOkoshi/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YutaOkoshi/YutaOkoshi/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
@@ -49,19 +62,6 @@ location: Japan 🇯🇵
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=YutaOkoshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
-<!-- ===================== SNAKE ===================== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YutaOkoshi/YutaOkoshi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YutaOkoshi/YutaOkoshi/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YutaOkoshi/YutaOkoshi/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
