@@ -1,11 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:2a5298,100:00c6ff&height=200&section=header&text=Yuta%20Okoshi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Startup%20Solutions%20Architect%20%7C%20Tech%20Lead%20%E2%86%92%20CTO&descSize=20&descAlignY=60" />
-
-<a href="https://github.com/YutaOkoshi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=AWS+Startup+Solutions+Architect;Web3+%2F+Generative+AI+%2F+Physical+AI;SRE+%2F+DevOps+%2F+IaC+Enthusiast;Building+the+Japanese+startup+ecosystem" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:2a5298,100:00c6ff&height=200&section=header" />
 
 </div>
 
@@ -14,15 +10,8 @@
 
 ```yaml
 name: Yuta Okoshi
-role: Startup Solutions Architect @ Amazon Web Services Japan
-focus: ["Startup PMF Support", "Web3 / Blockchain", "Generative AI", "Physical AI / Drone"]
-mission: アーリーステージのスタートアップを技術で加速させ、テックリード → CTO へ
 location: Japan 🇯🇵
 ```
-
-> 💼 **詳しいキャリアサマリー・職務経歴は LinkedIn をご覧ください** 👉 [linkedin.com/in/yuta-okoshi](https://www.linkedin.com/in/yuta-okoshi/)
->
-> このページでは「エンジニアとしての技術スタックとアクティビティ」にフォーカスしています。
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
@@ -98,25 +87,15 @@ location: Japan 🇯🇵
 
 </div>
 
-<!-- ===================== ACTIVITY / OSS ===================== -->
-## 🌱 Community & OSS
-
-- 🎤 **JAWS-UG CDK** などで登壇（AWS CDK の v2 完全移行 など）
-- 📦 OSS: AWS CDK ベースのセキュリティ基盤 **BLEA** を公開 → [constructs.dev](https://constructs.dev/packages/blea)
-- 🚀 年間平均 **60社** のアーリースタートアップを技術支援（PMF / プロトタイピング）
-
 <!-- ===================== CONNECT ===================== -->
 ## 📫 Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/yuta-okoshi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.facebook.com/YOUR_FACEBOOK_ID"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://github.com/YutaOkoshi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://lapras.com/public/YutaOkoshi"><img src="https://img.shields.io/badge/LAPRAS-1D1D1F?style=for-the-badge&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YutaOkoshi&style=for-the-badge&color=2A5298&label=PROFILE+VIEWS" />
 
 </div>
 
