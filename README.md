@@ -33,8 +33,8 @@ location: Japan 🇯🇵
 
 <div align="center">
 
-<img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YutaOkoshi&theme=tokyonight" />
-<img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YutaOkoshi&theme=tokyonight" />
+<img height="220" src="https://github-profile-summary-cards-black.vercel.app/api/cards/most-commit-language?username=YutaOkoshi&theme=tokyonight" />
+<img height="220" src="https://github-profile-summary-cards-black.vercel.app/api/cards/repos-per-language?username=YutaOkoshi&theme=tokyonight" />
 
 </div>
 
@@ -43,8 +43,8 @@ location: Japan 🇯🇵
 
 <div align="center">
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YutaOkoshi&theme=tokyonight" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YutaOkoshi&theme=tokyonight&utcOffset=9" />
+<img height="200" src="https://github-profile-summary-cards-black.vercel.app/api/cards/stats?username=YutaOkoshi&theme=tokyonight" />
+<img height="200" src="https://github-profile-summary-cards-black.vercel.app/api/cards/productive-time?username=YutaOkoshi&theme=tokyonight&utcOffset=9" />
 
 </div>
 
