@@ -43,6 +43,12 @@ location: Japan 🇯🇵
 
 <div align="center">
 
+<img width="100%" src="https://github-profile-summary-cards-black.vercel.app/api/cards/profile-details?username=YutaOkoshi&theme=dark" />
+
+</div>
+
+<div align="center">
+
 <img height="200" src="https://github-profile-summary-cards-black.vercel.app/api/cards/stats?username=YutaOkoshi&theme=tokyonight" />
 <img height="200" src="https://github-profile-summary-cards-black.vercel.app/api/cards/productive-time?username=YutaOkoshi&theme=tokyonight&utcOffset=9" />
 
@@ -51,15 +57,6 @@ location: Japan 🇯🇵
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=YutaOkoshi&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" />
-
-</div>
-
-<!-- ===================== TROPHY ===================== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YutaOkoshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
